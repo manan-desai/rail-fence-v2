@@ -1,0 +1,26 @@
+{
+  "name": "rail-fence-v2",
+  "version": "1.0.0",
+  "description": "This module is one step ahead of basic rail fence algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manan5439/rail-fence-v2.git"
+  },
+  "keywords": [
+    "rail fence",
+    "algorithm",
+    "node",
+    "js",
+    "encryption"
+  ],
+  "author": "Manan Desai <manan5439@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manan5439/rail-fence-v2/issues"
+  },
+  "homepage": "https://github.com/manan5439/rail-fence-v2#readme"
+}
