@@ -1,6 +1,6 @@
 {
   "name": "rail-fence-v2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This module is one step ahead of basic rail fence algorithm.",
   "main": "index.js",
   "scripts": {
